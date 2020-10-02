@@ -21,3 +21,4 @@ testfixtures==4.13.5 # Updated from 4.10.0
 tldextract==2.0.2 # Updated from 2.0.1
 ujson==1.35
 # Generated with piprot 0.9.7
+urllib3>=1.25.9 # not directly required, pinned by Snyk to avoid a vulnerability
