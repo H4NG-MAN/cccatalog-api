@@ -38,3 +38,4 @@ ujson==1.35
 w3lib==1.17.0 # Updated from 1.16.0
 zope.interface==4.3.3 # Updated from 4.2.0
 # Generated with piprot 0.9.7
+setuptools>=65.5.1 # not directly required, pinned by Snyk to avoid a vulnerability
