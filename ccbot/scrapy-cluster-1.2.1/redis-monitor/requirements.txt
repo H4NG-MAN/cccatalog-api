@@ -16,3 +16,4 @@ six==1.10.0
 testfixtures==4.13.5 # Updated from 4.10.0
 ujson==1.35
 # Generated with piprot 0.9.7
+setuptools>=70.0.0 # not directly required, pinned by Snyk to avoid a vulnerability
